@@ -12,15 +12,15 @@ If you are tired of cheaters, you are in luck.
 WaveShield will always be on top :p
 
 # What WaveShield offers?
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+![image](https://user-images.githubusercontent.com/67419505/170337760-f0ec5e0e-1d39-4db6-be51-21c89668edd5.png)
 
 # Showcases
-![Watch the video](https://youtu.be/CLLjBvoEzJY)
-
+![Youtube Full Showcase](https://youtu.be/CLLjBvoEzJY)
+Menus Detection
+https://images-ext-1.discordapp.net/external/P-3b06Q-eoM9PXU-fq4DuSKM9Da_aR_swFcocj-e9AE/https/media.discordapp.net/attachments/832948377192235018/834176460100862032/RIP.gif
 Buy WaveShield now on https://discord.com/invite/CXZwrZx
 
 More links:
-- YouTube Channel: https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ
 - Website: http://www.waveshield.xyz/
 
 ![alt text](https://user-images.githubusercontent.com/67419505/170267929-c13e756b-ce57-4585-b2e1-e97b89f3e466.png)
