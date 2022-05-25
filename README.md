@@ -12,7 +12,7 @@ If you are tired of cheaters, you are in luck.
 WaveShield will always be on top :p
 
 # What WaveShield offers?
-![image](https://user-images.githubusercontent.com/67419505/170336844-de11cd82-8ca5-42d1-ab4c-c9c8f1f8b8ea.png)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 # Showcases
 ![Watch the video](https://youtu.be/CLLjBvoEzJY)
