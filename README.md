@@ -14,6 +14,9 @@ WaveShield will always be on top :p
 # What WaveShield offers?
 ![image](https://user-images.githubusercontent.com/67419505/170336844-de11cd82-8ca5-42d1-ab4c-c9c8f1f8b8ea.png)
 
+# Showcases
+![Watch the video](https://youtu.be/CLLjBvoEzJY)
+
 Buy WaveShield now on https://discord.com/invite/CXZwrZx
 
 More links:
