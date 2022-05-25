@@ -15,12 +15,9 @@ WaveShield will always be on top :p
 ![image](https://user-images.githubusercontent.com/67419505/170337760-f0ec5e0e-1d39-4db6-be51-21c89668edd5.png)
 
 # Showcases
-[Youtube Full Showcase](https://youtu.be/CLLjBvoEzJY)
-
-[Event Security Showcase](https://streamable.com/6016m9)
-
-Menus Detection Showcase
-
+[Youtube Full Showcase](https://youtu.be/CLLjBvoEzJY)  
+[Event Security Showcase](https://streamable.com/6016m9)  
+Menus Detection Showcase  
 ![](https://images-ext-1.discordapp.net/external/P-3b06Q-eoM9PXU-fq4DuSKM9Da_aR_swFcocj-e9AE/https/media.discordapp.net/attachments/832948377192235018/834176460100862032/RIP.gif)
 
 # Nota Bene
