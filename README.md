@@ -24,11 +24,11 @@ Menus Detection Showcase
 ![](https://images-ext-1.discordapp.net/external/P-3b06Q-eoM9PXU-fq4DuSKM9Da_aR_swFcocj-e9AE/https/media.discordapp.net/attachments/832948377192235018/834176460100862032/RIP.gif)
 
 # Nota Bene
-📌 WaveShield is updated every week
-📌 WaveShield has fast and responsive support
-📌 WaveShield is able to protect any server
-📌 You can update your configuration without restarting the server.
-📌 Already +1500 secured servers all around the world!
+📌 WaveShield is updated every week.  
+📌 WaveShield has fast and responsive support.  
+📌 WaveShield is able to protect any server.  
+📌 You can update your configuration without restarting the server.  
+📌 Already +1500 secured servers all around the world!  
 
 Buy WaveShield now on https://discord.com/invite/CXZwrZx
 
