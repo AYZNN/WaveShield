@@ -1,5 +1,5 @@
 # About WaveShield
-![alt text](https://media.discordapp.net/attachments/924345629898059797/978770738691584020/unknown.png)
+![alt text](https://media.discordapp.net/attachments/924345629898059797/969022843469856848/waveshield-db.png?width=1260&height=466)
 
 WaveShield is a FiveM Anti-Cheat created in July 2020 and now has over 1200 protected servers, which has never stopped updating with active and unique development.
 WaveShield is the most effective anti cheat on the market that is able to detect 90% of client-side injections and executors like Eulen, RedEngine or Unex.
