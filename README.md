@@ -7,7 +7,7 @@ More links:
 - YouTube Channel : https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ
 - Website : http://www.waveshield.xyz/
 
-![alt text](https://media.discordapp.net/attachments/746117970073485456/915970428017733632/Screenshot_1.png)
+![alt text](https://media.discordapp.net/attachments/924345629898059797/978770738691584020/unknown.png)
 ![alt text](https://media.discordapp.net/attachments/746117970073485456/915972041478389790/EVENT_PROTECT_SS.png)
 ![alt text](https://media.discordapp.net/attachments/746117970073485456/915972041734254612/OMD_SS.png)
 ![alt text](https://media.discordapp.net/attachments/746117970073485456/915972041180577802/EMD_SS.png)
