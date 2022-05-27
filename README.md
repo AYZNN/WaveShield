@@ -1,4 +1,4 @@
-# About WaveShield
+# About WaveShield 
 [Buy WaveShield](https://discord.com/invite/CXZwrZx) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](http://www.waveshield.xyz/)
 ![alt text](https://media.discordapp.net/attachments/924345629898059797/969022843469856848/waveshield-db.png?width=1260&height=466)
 
