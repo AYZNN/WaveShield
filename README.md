@@ -1,8 +1,8 @@
 # About WaveShield 
-[Buy WaveShield](https://discord.com/invite/CXZwrZx) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](http://www.waveshield.xyz/)
+[Buy WaveShield](https://www.waveshield.xyz/ppurchase/) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](https://www.waveshield.xyz/)
 ![alt text](https://media.discordapp.net/attachments/924345629898059797/969022843469856848/waveshield-db.png?width=1260&height=466)
 
-WaveShield is a FiveM Anti-Cheat created in July 2020 and now has over 1200 protected servers, which has never stopped updating with active and unique development.
+WaveShield is a FiveM Anti-Cheat created in July 2020 and now has over 2000 protected servers, which has never stopped updating with active and unique development.
 WaveShield is the most effective anti cheat on the market that is able to detect 90% of client-side injections and executors like Eulen, RedEngine or Unex.
 Our Enhanced Menus Detection (EMD) is able to detect 99% of lua menus wether they are injected in isolated mode or not and with any executors.
 We also protect your exploitable events so cheaters can't give money or weapon for example.
