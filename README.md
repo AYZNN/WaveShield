@@ -7,8 +7,6 @@ WaveShield is the most effective anti cheat on the market that is able to detect
 Our Enhanced Menus Detection (EMD) is able to detect 99% of lua menus wether they are injected in isolated mode or not and with any executors.
 We also protect your exploitable events so cheaters can't give money or weapon for example.
 WaveShield can never be countered because it has server-side security. We guarantee you maximum protection and optimization that will not impact your server's performance.
-WaveShield is constantly updated with new features that have never been seen before (event protection, anti-injection, etc.) and has a lot of support to help you in case of any problems!
-See More on our website/discord!
 If you are tired of cheaters, you are in luck.
 WaveShield will always be on top :p
 
@@ -17,6 +15,7 @@ WaveShield will always be on top :p
 
 # Showcases
 [Youtube Full Showcase](https://youtu.be/CLLjBvoEzJY)  
+[Anti Executors Showcase](https://www.youtube.com/watch?v=ItRKoz7XZB4)  
 [Event Security Showcase](https://streamable.com/6016m9)  
 Menus Detection Showcase  
 ![](https://images-ext-1.discordapp.net/external/P-3b06Q-eoM9PXU-fq4DuSKM9Da_aR_swFcocj-e9AE/https/media.discordapp.net/attachments/832948377192235018/834176460100862032/RIP.gif)
