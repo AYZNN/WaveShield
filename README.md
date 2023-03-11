@@ -26,3 +26,4 @@ Menus Detection Showcase
 📌 WaveShield is able to protect any server.  
 📌 You can update your configuration without restarting the server.  
 📌 Already +1500 secured servers all around the world!  
+
