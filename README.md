@@ -1,29 +1,33 @@
+[Buy WaveShield](https://www.waveshield.xyz/#pricing) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](https://www.waveshield.xyz/)
 # About WaveShield 
-[Buy WaveShield](https://www.waveshield.xyz/ppurchase/) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](https://www.waveshield.xyz/)
-![alt text](https://media.discordapp.net/attachments/924345629898059797/969022843469856848/waveshield-db.png?width=1260&height=466)
+![alt text](https://media.discordapp.net/attachments/778562688925696020/1097717518984024144/BANNIERE_DISCORD.png)
 
-WaveShield is a FiveM Anti-Cheat created in July 2020 and now has over 2000 protected servers, which has never stopped updating with active and unique development.
-WaveShield is the most effective anti cheat on the market that is able to detect 90% of client-side injections and executors like Eulen, RedEngine or Unex.
-Our Enhanced Menus Detection (EMD) is able to detect 99% of lua menus wether they are injected in isolated mode or not and with any executors.
-We also protect your exploitable events so cheaters can't give money or weapon for example.
-WaveShield can never be countered because it has server-side security. We guarantee you maximum protection and optimization that will not impact your server's performance.
+WaveShield is a FiveM Anti-Cheat created in July 2020 and now has over 5000 protected servers all around the world, which has never stopped updating with active and unique development.<br>
+**WaveShield currently detects Eulen, redENGINE, Skript.GG, HX Softwares, TZ Project, RZ Free, and a lot of other executors!**<br>
 If you are tired of cheaters, you are in luck.
 WaveShield will always be on top :p
 
-# What WaveShield offers?
-![image](https://user-images.githubusercontent.com/67419505/170337760-f0ec5e0e-1d39-4db6-be51-21c89668edd5.png)
+# Anti Executors
+![0423](https://user-images.githubusercontent.com/67419505/234154629-ab9a7cdf-1a04-4788-85f2-210263676b1a.gif)
 
-# Showcases
+# Features
+[Full Features List](https://pastebin.com/epBiJVGK)<br>
+![image](https://user-images.githubusercontent.com/67419505/234154556-304bb622-ebba-44e3-abce-389cb644bf0f.png)
+
+# Useful Links
+[Website](https://waveshield.xyz/)<br>
 [Youtube Full Showcase](https://youtu.be/CLLjBvoEzJY)  
-[Anti Executors Showcase](https://www.youtube.com/watch?v=ItRKoz7XZB4)  
-[Event Security Showcase](https://streamable.com/6016m9)  
-Menus Detection Showcase  
-![](https://images-ext-1.discordapp.net/external/P-3b06Q-eoM9PXU-fq4DuSKM9Da_aR_swFcocj-e9AE/https/media.discordapp.net/attachments/832948377192235018/834176460100862032/RIP.gif)
+[Anti Executors Showcase](https://www.youtube.com/watch?v=SqZ6AQ9pCxI)  
+[Event Security Showcase](https://www.youtube.com/watch?v=smqWTJk11dU)  
 
-# Nota Bene
-📌 WaveShield is updated every week.  
-📌 WaveShield has fast and responsive support.  
-📌 WaveShield is able to protect any server.  
-📌 You can update your configuration without restarting the server.  
-📌 Already +1500 secured servers all around the world!  
-
+# Infos
+```
+📌 WaveShield is updated every days
+📌 WaveShield has fast and responsive support
+📌 WaveShield is compatible on every servers
+📌 You can update your configuration without restarting the server
+📌 WaveShield makes your scripts compatible with our detections so you can enable all of our features without false bans!
+📌 WaveShield runs at 0.01-0.04ms(client) / 0.01ms(server)
+📌 WaveShield is (very) easy to install & configure as its almost Plug-N-Play
+📌 +5000 secured servers all around the world!
+```
