@@ -1,9 +1,9 @@
-[Buy WaveShield](https://www.waveshield.xyz/#pricing) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](https://www.waveshield.xyz/)
+[Buy WaveShield](https://www.waveshield.xyz/) - [Join our Discord](https://discord.com/invite/CXZwrZx) - [Visit our Website](https://www.waveshield.xyz/)
 # About WaveShield 
-![alt text](https://media.discordapp.net/attachments/778562688925696020/1097717518984024144/BANNIERE_DISCORD.png)
+## NEW Aim Bot Detection & Screen Recording
 
-WaveShield is a FiveM Anti-Cheat created in July 2020 and now has over 5000 protected servers all around the world, which has never stopped updating with active and unique development.<br>
-**WaveShield currently detects Eulen, redENGINE, Skript.GG, HX Softwares, TZ Project, RZ Free, and a lot of other executors!**<br>
+WaveShield is a FiveM Anti-Cheat created in July 2020, currently the most used that has over 10000 protected servers all around the world, which has never stopped updating with active and unique development.<br>
+**WaveShield currently detects Eulen, redENGINE, Skript.GG, HX Softwares, TZ Project, and a lot of other executors!**<br>
 If you are tired of cheaters, you are in luck.
 WaveShield will always be on top :p
 
