@@ -5,7 +5,7 @@
 WaveShield is a FiveM Anti-Cheat created in July 2020, currently the most used that has over 10000 protected servers all around the world, which has never stopped updating with active and unique development.<br>
 **WaveShield currently detects Eulen, redENGINE, Skript.GG, HX Softwares, TZ Project, and a lot of other executors!**<br>
 If you are tired of cheaters, you are in luck.
-WaveShield will always be on top :p
+WaveShield will always be on top :p 
 
 # Anti Executors
 ![0423](https://user-images.githubusercontent.com/67419505/234154629-ab9a7cdf-1a04-4788-85f2-210263676b1a.gif)
