@@ -1,4 +1,4 @@
-# 🚨 WaveShield - Best FiveM Anticheat 2025
+# 🚨 WaveShield - Best FiveM Anticheat 2025 
 
 **The most advanced FiveM server protection** trusted by **10,000+ servers** worldwide.
 
